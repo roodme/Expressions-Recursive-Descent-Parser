@@ -59,10 +59,6 @@ during the course "Intro to Programming" by DIT, UoA (first semester)
 ```
 
 
-## Contributing
-For major changes, please open an issue first to discuss what you would like to change.
-
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
   
