@@ -33,7 +33,7 @@ static char* ahead;
 bool all_good = false;
 
 
-bool audit_int(char* number)   // Is it a non negative integer
+bool audit_int(char* number)   
 {
     size_t length = -1;
 
